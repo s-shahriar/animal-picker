@@ -1,6 +1,6 @@
 export const dynamic = "force-dynamic";
 
-import AnimalCategorization from "@/Components/AnimalCategorization";
+import AnimalCategorization from "@/components/AnimalCategorization";
 
 export default function Home() {
   return (
